@@ -1,0 +1,12 @@
+{
+    "name": "automation-project",
+    "version": "1.0.0",
+    "description": "Projeto de automação para cadastro de cliente",
+    "scripts": {
+      "test": "npx playwright test"
+    },
+    "devDependencies": {
+      "@playwright/test": "^1.43.1"
+    }
+  }
+  
